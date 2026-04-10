@@ -1,0 +1,6 @@
+temperature,humidity,label
+30,70,healthy
+32,80,diseased
+28,65,healthy
+35,85,diseased
+29,75,healthy
